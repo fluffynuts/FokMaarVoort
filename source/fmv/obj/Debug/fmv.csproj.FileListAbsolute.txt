@@ -1,0 +1,6 @@
+C:\code\playground\fmv\fmv\bin\Debug\fmv.exe.config
+C:\apps\scripts\fmv.exe.config
+C:\apps\scripts\fmv.exe
+C:\apps\scripts\fmv.pdb
+C:\code\playground\fmv\fmv\obj\Debug\fmv.exe
+C:\code\playground\fmv\fmv\obj\Debug\fmv.pdb
